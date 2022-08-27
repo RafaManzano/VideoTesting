@@ -6,3 +6,6 @@ Este proyecto es una app que se ha creado con Clean Architecture y Jetpack Compo
 
 - JetpackComposeSplashScreen
 En este proyecto, creamos una pantalla Splash Screen usando Jetpack Compose
+
+- MovieTrailers TV
+En este proyecto, es una app de reproducción de video bajo demanda en Android TV. Por el momento, solo se planteará el diseño de los layouts
